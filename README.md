@@ -1,8 +1,11 @@
 # AAI530Group3
 
 Authors:
+
 Brian Johnson
+
 Bosky Atlani
+
 Mohammad Alkhawaldeh
  
 
