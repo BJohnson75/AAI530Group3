@@ -1,2 +1,3 @@
 taxi_trajectories/*
-.DS_Store/*
+.DS_Store
+taxi_next_location_bosky_*
